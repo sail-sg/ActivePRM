@@ -10,12 +10,10 @@ The official Implementation for Paper "Efficient Process Reward Model Training v
 
 </div>
 
----
 ## 🔥 Updates
 
 - 14/04/2025: We release our code, models and data. Paper will be available soon.
 
----
 ## 🏴󠁶󠁵󠁭󠁡󠁰󠁿 Overview
 
 **TL;DR: We achieved SOTA performance on [ProcessBench](https://github.com/QwenLM/ProcessBench) (75.0%) and [PRMBench](https://github.com/ssmisya/PRMBench?tab=readme-ov-file) (65.5%) with merely 5% labeling cost compared with `Qwen/Qwen2.5-Math-PRM-7B`**.
@@ -23,7 +21,6 @@ The official Implementation for Paper "Efficient Process Reward Model Training v
  <p align="center">
   <img src="./assets/figure1.png" width=70%/>
 </p>
-
 
 ## ⚡️ Quickstart
 
@@ -48,4 +45,3 @@ cd examples
 bash scripts/pool_based_active_learning.sh sail/ActPRMData
 ```
 
----
