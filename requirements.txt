@@ -1,0 +1,6 @@
+torch
+deepspeed
+transformers
+datasets
+trl>=0.15.2
+vllm
