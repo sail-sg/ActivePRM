@@ -13,7 +13,7 @@ The official Implementation for Paper "Efficient Process Reward Model Training v
 ## 🔥 Updates
 
 - 14/04/2025: We release our code, models and data. Paper will be available soon.
-- 14/04/2025: Within 7B PRMs, our model `sail/ActPRM-X` (based on `Qwen/Qwen2.5-Math-PRM-7B`) achieved new SOTA performance on ProcessBench (76.0%) and PRMBench (66.7%, ranking 5th).
+- 14/04/2025: Within 7B PRMs, our model `sail/ActPRM-X` (based on `Qwen/Qwen2.5-Math-PRM-7B`) achieved new SOTA performance on ProcessBench (76.0%) and PRMBench (66.7%).
 
 ## 🏴󠁶󠁵󠁭󠁡󠁰󠁿 Overview
 
