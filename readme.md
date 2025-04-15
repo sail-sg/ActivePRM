@@ -13,13 +13,14 @@ The official Implementation for Paper "Efficient Process Reward Model Training v
 ## 🔥 Updates
 
 - 14/04/2025: We release our code, models and data. Paper will be available soon.
+- 14/04/2025: Within 7B PRMs, our model `sail/ActPRM-X` (based on `Qwen/Qwen2.5-Math-PRM-7B`) achieved new SOTA performance on ProcessBench (76.0%) and PRMBench (66.7%, ranking 5th).
 
 ## 🏴󠁶󠁵󠁭󠁡󠁰󠁿 Overview
 
 **TL;DR: We achieved SOTA performance on [ProcessBench](https://github.com/QwenLM/ProcessBench) (75.0%) and [PRMBench](https://github.com/ssmisya/PRMBench?tab=readme-ov-file) (65.5%) with merely 5% labeling cost compared with `Qwen/Qwen2.5-Math-PRM-7B`**.
 
  <p align="center">
-  <img src="./assets/figure1.png" width=70%/>
+  <img src="./assets/figure1.png" width=65%/>
 </p>
 
 ## 📊 Results
